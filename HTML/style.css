@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'mc';
+    src: url('Minecraft.woff2') format('woff2'),
+         url('Minecraft.woff') format('woff');
+     }
+body {
+    font-family: 'mc' ;
+}
+.o{
+	margin-left: 200px;
+	font-family: 'mc' ;
+	font-size: 16px;
+}
+.xd {
+	
+	color: blue;
+	font-size: 20px;
+}
+.pene{
+	width: 200px;
+	height: 200px;
+}
