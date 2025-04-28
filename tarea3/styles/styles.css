@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'aftika';
+    src: url(aftika.ttf);
+}
+.imgbase{
+    height: 1000px;
+    width: 1600px;
+    margin-left: 100px;
+    opacity: 0.5;
+    position: absolute;
+} 
+.central{
+    color: #0C79D0;
+    font-family: aftika;
+    margin-top: 200px;
+    margin-left: 210px;
+    position: absolute;
+}
+.central h1{
+    font-size: 75px;
+}
+.central p{
+    font-size: 32px;
+    color: black;
+}
+.central button{
+    font-family: aftika;
+    font-size: 21px;
+    background-color: #FE3D3E;
+    color: white;
+    border: none;
+    border-radius: 50px;
+    padding: 15px 35px;
+    margin-top: 60px;
+}
+.icon{
+    height: 25px;
+}
