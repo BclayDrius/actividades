@@ -1,2 +1,2 @@
-# actividades
+# actividade
 Dir es un paquetazo
